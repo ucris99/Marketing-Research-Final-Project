@@ -1,5 +1,4 @@
 # Marketing-Research-Final-Project
-Marketing Research Project
 
 By Muhammad Saleem and Cristian Utate
 
@@ -13,17 +12,17 @@ New York City, NY
 
 12/12/21
 
-Problem Statement:
+### Problem Statement:
 
 A prospective entrepreneur needs help deciding on a new restaurant location in NYC that would earn $100,000.00 / year, while serving the Hispanic community.
 
 Value Proposition: We can determine the best NYC location conducive to a revenue of $100,000.00 / year.
 
-Dependent Variables:
+### Dependent Variables:
 
 Our dependent variable was restaurant sales.
 
-Independent Variables:
+### Independent Variables:
 
 We had three independent variables to work with. These are:
 
@@ -33,7 +32,7 @@ We had three independent variables to work with. These are:
 
 3. Restaurant concentration by zip code
 
-Objectives:
+### Objectives:
 
 In order to meet the value proposition for our client, we had to complete 3 objectives.
 
@@ -43,11 +42,11 @@ In order to meet the value proposition for our client, we had to complete 3 obje
 
 3. Determine competing restaurant density by select zip codes
 
-Method:
+### Method:
 
 Our methodology involves correlating strong restaurant sales with the percentage of hispanic population, high levels of income, and a low competitive environment. By finding overlap where these three elements are strong, we can conclude that it will be an appropriate location for the restaurant.
 
-Results:
+### Results:
 
 Out of all the neighborhoods in New York City, there is no overlap between the top 10 wealthiest NYC neighborhoods and the top 10 neighborhoods in terms of Hispanic population.
 
